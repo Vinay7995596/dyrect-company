@@ -1,0 +1,11 @@
+/* src/Navbar.css */
+.navbar-mobile-devices {
+   display: flex;
+   flex-direction: column;
+   background-color: red;
+  }
+  
+.navbar a:hover {
+  text-decoration: underline;
+}
+  

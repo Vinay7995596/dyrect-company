@@ -1,0 +1,90 @@
+.images-of-watch {
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+}
+
+.showing-products-list {
+    display: flex;
+}
+
+.notshowing {
+    display: none;
+}
+
+.icon-tickect-container {
+    display: flex;
+    align-items: center;
+}
+
+.tickect-heading {
+    color: #000;
+    font-size: 23px;
+    margin-left: 20px;
+}
+
+.container-inages-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.product-dectails-heading {
+    color: #98A1B0;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.product-dectails-name {
+    color: #000;
+    font-weight: 600;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.warant-name-para {
+    background-color: #D0F6E9;
+    border-radius: 10px;
+    font-size: 10px;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.main-bg-container {
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 20px;
+    width: fit-content;
+    border-radius: 30px;
+    width: 200px;
+}
+
+.product-details-button {
+    color: #98A1B0;
+    height: 30px;
+    border: 0px;
+    background-color: transparent;
+    font-size: 14px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.product-details-button > h2 {
+    font-size: 13px;
+}
+
+@media  all and (max-width:766px) {
+    .showing-products-list {
+        display: none;
+    }
+    
+    .notshowing {
+        display: flex;
+    }
+}

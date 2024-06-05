@@ -1,0 +1,27 @@
+.order-id-in-top-heading {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.option-open-clain-button-dropdown {
+    background-color: #ECF4FF;
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+}
+
+.normal-dropdown-way-think-selected-button {
+    padding: 10px;
+    height: 40px;
+}
+
+.main-flexing-mobile-nav-bar-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.normal-dropdown-way-think-selected {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

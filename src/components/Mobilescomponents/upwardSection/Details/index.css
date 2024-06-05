@@ -1,0 +1,61 @@
+.icons-mobile-devices-to-creating {
+    border-radius: 50%;
+    border: 1px solid #000;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.main-container-bg-action-required {
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-bottom: 30px;
+}
+
+.main-container-bg-action-required > h2 {
+    font-size: 18px;
+    padding: 20px;
+}
+
+.main-container-bg-action-required-para {
+    color: #98A1B0;
+    font-size: 13px !important;
+    font-weight: 500;
+    font-size: 18px;
+
+}
+
+
+.icons-mobile-devices-to-creating:hover {
+    background-color: aquamarine;
+}
+
+.icons-mobile-devices-to-creating-icons {
+    font-size: 20px;
+}
+
+.icons-mobile-devices-to-creating-icons-container-main {
+    display: flex;
+    justify-content: space-around;
+}
+.warranty-claiming-betting-container {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    overflow-x: scroll;
+}
+
+.warranty-claiming-betting {
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    font-size: 13px;
+}
+
+
+.movile-container-to-contining-background {
+    background-color: #ECF4FF;
+    padding: 20px;
+}
